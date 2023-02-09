@@ -4,6 +4,7 @@ SSB2
 
 
 move bot command ; ~move y
+
 Join bot command ; ~Join
 
 
