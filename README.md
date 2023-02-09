@@ -1,5 +1,5 @@
 # Tool-bots-
-Tool bot ssb2 do not abuse it⚠️
+SSB2
 
 
 
